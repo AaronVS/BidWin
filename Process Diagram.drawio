@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T15:02:29.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.7" etag="EOFyDJp_Bi8EbsX28K4N" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T16:49:53.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_49I7jtnNet1YxZMhPl0" version="21.3.7" type="github">
   <diagram name="Page-1" id="6W4AaZUkjcXcDQ5Ecm52">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XcCFvybICMbkdc_DKMNe-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-7" value="Bidder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="245" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-10" value="Auctioneer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-11" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="190" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XcCFvybICMbkdc_DKMNe-19">
+          <mxGeometry width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XcCFvybICMbkdc_DKMNe-19">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XcCFvybICMbkdc_DKMNe-19">
+          <mxGeometry x="30" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcCFvybICMbkdc_DKMNe-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="XcCFvybICMbkdc_DKMNe-19">
+          <mxGeometry x="206" y="85" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
